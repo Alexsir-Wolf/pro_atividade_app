@@ -1,8 +1,6 @@
 import React from "react";
 
-export default function ActivityForm(props) {
-    
-    
+export default function ActivityForm(props) {   
     return (
         <form className="row g-3">
             <div className="col-md-6">
